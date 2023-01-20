@@ -1,4 +1,4 @@
 # js-slider
-slider in js
+slider in html. css, js
 
 https://codepen.io/sadkote/pen/abjVgPB
